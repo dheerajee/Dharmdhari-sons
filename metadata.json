@@ -1,0 +1,7 @@
+{
+  "name": "Dharmdhari Sons Solar",
+  "description": "Solar Energy & Modern Cooking Solutions - Transitioning from LPG to Solar-Powered Induction Cooking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
